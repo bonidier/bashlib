@@ -1,0 +1,13 @@
+a/b/c/foo = bar
+a/b/d/baz1 =foo1
+a/b/d/baz2 =foo2
+a/b/d/baz2 =foo3
+a/b/d/baz2 =foo4
+a/b/kkkk =  vvvv
+a/b/1/2/a = hello world
+a/b/kkkk =  vvvv
+a/b/kkkk =  vvvv
+a/b1/c/3/b = zz1
+a/b1/c/4/b = zz2
+a/b1/c/3/3/3/mykey = myvalue
+z/y=a

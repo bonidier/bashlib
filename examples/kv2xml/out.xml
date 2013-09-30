@@ -1,0 +1,33 @@
+<first-tag>
+ <a>
+  <b>
+   <c>
+    <foo> bar</foo>
+   </c>
+   <d>
+    <baz1>foo1</baz1>
+    <baz2>foo2</baz2>
+   </d>
+   <kkkk> vvvv</kkkk>
+  </b>
+  <b_1_2>
+   <a> hello world</a>
+  </b_1_2>
+  <b>
+   <kkkk> vvvv</kkkk>
+  </b>
+  <b1>
+   <c_3>
+    <b> zz1</b>
+   </c_3>
+   <c_4>
+   </c_4>
+   <c_3_3_3>
+    <mykey> myvalue</mykey>
+   </c_3_3_3>
+  </b1>
+ </a>
+ <z>
+  <y>a</y>
+ </z>
+</first-tag>
