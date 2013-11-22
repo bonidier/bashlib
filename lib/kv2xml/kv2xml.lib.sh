@@ -1,6 +1,8 @@
 #!/usr/bin/env bash
-_KV2XML_SEP_PATH=""
-_KV2XML_SEP_KV=""
+
+# default values if not defined
+_KV2XML_SEP_PATH=${_KV2XML_SEP_PATH="/"}
+_KV2XML_SEP_KV=${_KV2XML_SEP_KV="="}
 
 #
 # kv2xml converts key/value input format to XML
